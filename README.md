@@ -1,4 +1,13 @@
-### Hi there 👋
+### 😎Hey! Nice to see you.
+I'm Ronak, Backend developer from India. I'm currently working as Software Engineer :computer:
+
+### Languages and Tools:
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-success?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
 
 <!--
 **TedaMeda/TedaMeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
